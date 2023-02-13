@@ -1,0 +1,6 @@
+#!/bin/bash
+
+file_name="*\\'\"Best School\"\'\\$\?\*\*\*\*\*:)"
+file_contents="Best School\n"
+
+echo -e $file_contents > $file_name
