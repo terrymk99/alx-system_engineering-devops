@@ -1,2 +1,2 @@
 #!/bin/bash
-cho $(($POWER / $DIVIDE)
+cho $(($POWER / $DIVIDE))
